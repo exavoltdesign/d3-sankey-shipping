@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+
+a{
+	color:inherit;
+}
+
+#legend{
+	margin-top: 10px;
+	font-family: "Museo Slab 100";
+}
+
+#sankeyDiagram{
+	margin-bottom: 50px;
+}
+	
+
+
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1400px;
+}
+
+.header{
+	font-size: 2em;
+	width: 1200px;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1,.header{
+	font-family:"Museo Slab 500";
+	color:#4d6059;
+	font-size: 2.5em;
+}
+
+h2,.header{
+	font-family: "Museo Slab 100";
+	color:#4d6059;
+	font-size:1.5em;
+	margin-bottom:20px;
+}
+
+.cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7{
+	margin: 0 auto;
+	width: 1200px;
+	opacity: 0.5;
+}
+
+#rectsRed:hover{
+	opacity: 1;
+}
+
+.node rect {
+	cursor: move;
+	fill-opacity: 1;
+	shape-rendering: crispEdges;
+}
+
+.node text {
+	cursor: default;
+	font-family: "Raleway", sans-serif;
+}
+
+
+.link {
+	fill: none;
+	stroke-opacity: .1;
+}
+
+#tooltipSankey {
+	position: absolute;
+	width: 200px;
+	height: auto;
+	padding: 10px;
+	background-color: white;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	pointer-events: none;
+}
+
+#tooltipSankey.hidden {
+	display: none;
+}
+
+#tooltipSankey p {
+	margin: 0;
+	font-family: Futura;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.Argentina{
+    
+}
