@@ -107,7 +107,6 @@ d3.csv("data/dataCountryToCountry.csv", function (error, data) {
             d.id = i;
             return "link-" + i;
         })
-        .style("stroke", "black")
         .style("stroke-width", function (d) {
             return Math.max(1, d.dy);
         })
@@ -183,7 +182,7 @@ d3.csv("data/dataCountryToCountry.csv", function (error, data) {
         .attr("x", -25 + sankey.nodeWidth())
         .attr("text-anchor", "end");
 
-/*
+
     link.style("stroke", (d, i) => {
         //console.log("d from gradient stroke func", d);
 
@@ -225,7 +224,7 @@ d3.csv("data/dataCountryToCountry.csv", function (error, data) {
 
         return `url(#${gradientID})`;
     })
-    */
+    
 
     function dragmove(d) {
         d3.select(this)
