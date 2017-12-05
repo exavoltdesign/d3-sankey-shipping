@@ -10,17 +10,17 @@
 </head>
 
 <body>
-    <div id="tooltipSankey" class="hidden">
-        <p id="sankeyName"></p>
-        <p id="sankeyInfo"></p>
+    <div id="sankey-labels">
+        <h4 class="sankey-label first" id="revenue-button">Revenues</h4>
+        <!-- &#10132 -->
+        <h4 class="sankey-label" id="spending-button">Expenses</h4>
+        <h4 class="sankey-label last clicked" id="showall-button">All</h4>
     </div>
 
-    <div class="container">
-        <div id="sankeyDiagram"></div>
-    </div>
-    
+    <div id="sankey"></div>
+
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="//d3js.org/d3.v4.min.js"></script>
     <script src="js/sankey.js"></script>
     <script src="js/script.js"></script>
 
