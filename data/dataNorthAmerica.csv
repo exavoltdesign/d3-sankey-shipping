@@ -1,0 +1,208 @@
+source,target,value
+Canada,Agricultural products,43.244
+Canada,Building materials,1.026
+Canada,Chemicals,18.997
+Canada,Groupage,31.975
+Canada,Machinery,4.626
+Canada,Oil and fuel,0.067
+Canada,Waste,66.456
+Canada,Wood and textiles,38.332
+USA,Agricultural products,66.263
+USA,Building materials,28.514
+USA,Chemicals,67.079
+USA,Groupage,56.215
+USA,Machinery,31.753
+USA,Oil and fuel,2.110
+USA,Waste,6.670
+USA,Wood and textiles,136.375
+Agricultural products,Belgium ,2.285
+Agricultural products,China ,12.981
+Agricultural products,Finland ,1.318
+Agricultural products,France ,2.563
+Agricultural products,Germany ,0.935
+Agricultural products,Greece ,13.513
+Agricultural products,Hongkong,4.743
+Agricultural products,Ireland ,7.920
+Agricultural products,Latvia ,0.430
+Agricultural products,Lithuania ,0.197
+Agricultural products,Netherlands ,7.836
+Agricultural products,Norway ,5.703
+Agricultural products,Other countries ,2.141
+Agricultural products,Poland ,0.527
+Agricultural products,Portugal ,3.431
+Agricultural products,Russia ,3.631
+Agricultural products,Saudi Arabia ,0.289
+Agricultural products,Singapore ,9.167
+Agricultural products,South Korea ,0.234
+Agricultural products,Spain ,17.306
+Agricultural products,Sri Lanka ,1.003
+Agricultural products,Sweden ,4.391
+Agricultural products,United Arab Emirates ,0.067
+Agricultural products,United Kingdom ,6.829
+Agricultural products,USA ,0.067
+Building materials,Belgium ,0.208
+Building materials,China ,0.001
+Building materials,Finland ,1.732
+Building materials,France ,0.567
+Building materials,Germany ,0.345
+Building materials,Greece ,0.274
+Building materials,India ,0.006
+Building materials,Ireland ,0.978
+Building materials,Latvia ,0.079
+Building materials,Lithuania ,3.060
+Building materials,Netherlands ,2.918
+Building materials,Norway ,7.573
+Building materials,Other countries ,0.436
+Building materials,Pakistan ,0.007
+Building materials,Poland ,0.519
+Building materials,Portugal ,0.493
+Building materials,Russia ,1.641
+Building materials,Saudi Arabia ,0.045
+Building materials,Singapore ,0.302
+Building materials,South Korea ,0.042
+Building materials,Spain ,0.857
+Building materials,Sri Lanka ,0.182
+Building materials,Sweden ,1.438
+Building materials,United Arab Emirates ,0.029
+Building materials,United Kingdom ,5.808
+Chemicals,Belgium ,1.822
+Chemicals,China ,0.278
+Chemicals,Finland ,2.214
+Chemicals,France ,1.039
+Chemicals,Germany ,1.507
+Chemicals,Greece ,0.459
+Chemicals,Hongkong,0.138
+Chemicals,India ,3.184
+Chemicals,Ireland ,7.770
+Chemicals,Latvia ,0.465
+Chemicals,Lithuania ,0.205
+Chemicals,Malaysia,0.006
+Chemicals,Netherlands ,11.816
+Chemicals,Norway ,7.857
+Chemicals,Other countries ,2.080
+Chemicals,Pakistan ,0.121
+Chemicals,Poland ,1.679
+Chemicals,Portugal ,2.982
+Chemicals,Russia ,5.863
+Chemicals,Saudi Arabia ,1.789
+Chemicals,Singapore ,1.096
+Chemicals,Spain ,7.170
+Chemicals,Sri Lanka ,0.151
+Chemicals,Sweden ,3.184
+Chemicals,United Arab Emirates ,0.004
+Chemicals,United Kingdom ,21.197
+Groupage,Belgium ,2.597
+Groupage,China ,1.374
+Groupage,Finland ,1.306
+Groupage,France ,1.416
+Groupage,Germany ,0.957
+Groupage,Greece ,0.459
+Groupage,Hongkong,1.883
+Groupage,India ,1.666
+Groupage,Ireland ,23.125
+Groupage,Latvia ,0.324
+Groupage,Lithuania ,0.263
+Groupage,Netherlands ,5.240
+Groupage,Norway ,3.015
+Groupage,Other countries ,6.026
+Groupage,Poland ,1.283
+Groupage,Portugal ,3.843
+Groupage,Russia ,5.693
+Groupage,Saudi Arabia ,0.108
+Groupage,Singapore ,0.747
+Groupage,South Korea ,3.136
+Groupage,Spain ,5.112
+Groupage,Sri Lanka ,0.630
+Groupage,Sweden ,3.241
+Groupage,United Arab Emirates ,0.145
+Groupage,United Kingdom ,14.597
+Groupage,USA ,0.004
+Machinery,Belgium ,0.318
+Machinery,China ,0.097
+Machinery,Finland ,1.825
+Machinery,France ,0.875
+Machinery,Germany ,0.784
+Machinery,Greece ,0.878
+Machinery,Hongkong,0.021
+Machinery,India ,0.149
+Machinery,Ireland ,1.833
+Machinery,Latvia ,0.313
+Machinery,Lithuania ,0.374
+Machinery,Malaysia,0.012
+Machinery,Netherlands ,2.968
+Machinery,Norway ,1.226
+Machinery,Other countries ,2.497
+Machinery,Poland ,4.966
+Machinery,Portugal ,1.113
+Machinery,Russia ,5.237
+Machinery,Saudi Arabia ,0.291
+Machinery,Singapore ,0.527
+Machinery,Spain ,2.889
+Machinery,Sri Lanka ,0.188
+Machinery,Sweden ,2.835
+Machinery,United Arab Emirates ,0.325
+Machinery,United Kingdom ,3.838
+Oil and fuel,Belgium ,0.080
+Oil and fuel,Finland ,0.197
+Oil and fuel,Germany ,0.061
+Oil and fuel,Greece ,0.029
+Oil and fuel,India ,0.287
+Oil and fuel,Ireland ,0.061
+Oil and fuel,Lithuania ,0.049
+Oil and fuel,Netherlands ,0.054
+Oil and fuel,Norway ,0.216
+Oil and fuel,Other countries ,0.059
+Oil and fuel,Poland ,0.008
+Oil and fuel,Portugal ,0.066
+Oil and fuel,Russia ,0.486
+Oil and fuel,Singapore ,0.009
+Oil and fuel,Spain ,0.031
+Oil and fuel,Sri Lanka ,0.026
+Oil and fuel,Sweden ,0.299
+Oil and fuel,United Kingdom ,0.159
+Waste,Belgium ,0.428
+Waste,China ,49.917
+Waste,France ,0.039
+Waste,Germany ,0.763
+Waste,Hongkong,4.271
+Waste,India ,1.880
+Waste,Ireland ,0.016
+Waste,Malaysia,0.062
+Waste,Netherlands ,0.900
+Waste,Norway ,0.011
+Waste,Pakistan ,0.077
+Waste,Poland ,0.005
+Waste,Portugal ,0.037
+Waste,Russia ,0.100
+Waste,Singapore ,2.121
+Waste,South Korea ,8.825
+Waste,Spain ,0.462
+Waste,Sri Lanka ,0.450
+Waste,Sweden ,0.016
+Waste,Thailand,0.021
+Waste,United Arab Emirates ,1.454
+Waste,United Kingdom ,1.271
+Wood and textiles,Belgium ,0.897
+Wood and textiles,China ,7.137
+Wood and textiles,Finland ,1.128
+Wood and textiles,France ,2.445
+Wood and textiles,Germany ,1.629
+Wood and textiles,Greece ,4.533
+Wood and textiles,India ,8.061
+Wood and textiles,Ireland ,18.446
+Wood and textiles,Latvia ,0.075
+Wood and textiles,Lithuania ,0.281
+Wood and textiles,Netherlands ,14.957
+Wood and textiles,Norway ,3.593
+Wood and textiles,Other countries ,5.768
+Wood and textiles,Poland ,2.078
+Wood and textiles,Portugal ,5.019
+Wood and textiles,Russia ,2.161
+Wood and textiles,Saudi Arabia ,0.071
+Wood and textiles,Singapore ,0.369
+Wood and textiles,Spain ,23.124
+Wood and textiles,Sri Lanka ,4.305
+Wood and textiles,Sweden ,17.083
+Wood and textiles,United Arab Emirates ,0.756
+Wood and textiles,United Kingdom ,50.710
+Wood and textiles,USA ,0.081

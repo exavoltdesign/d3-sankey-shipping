@@ -10,20 +10,21 @@
 </head>
 
 <body>
-    <div id="sankey-labels">
-        <h4 class="sankey-label first" id="revenue-button">Revenues</h4>
-        <!-- &#10132 -->
-        <h4 class="sankey-label" id="spending-button">Expenses</h4>
-        <h4 class="sankey-label last clicked" id="showall-button">All</h4>
+  <div id="sankey-labels">
+    <h4 class="sankey-label" id="continents-button">Back to overview</h4> <!-- &#10132 -->
+  </div>
+
+    <div class="container">
+        <div id="sankeyDiagram"></div>
     </div>
-
-    <div id="sankey"></div>
-
+    
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-    <script src="//d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript" src="https://cdn.rawgit.com/Caged/d3-tip/master/index.js"></script>
+    <script src="js/d3.min.js"></script>
     <script src="js/sankey.js"></script>
     <script src="js/script.js"></script>
 
 </body>
 
 </html>
+ 
